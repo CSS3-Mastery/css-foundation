@@ -42,43 +42,9 @@ responsive-portfolio/
 
 ## 3. Setting Up Initial Files
 
-Let's create the initial files for your project: `index.html` and `styles.css`.
+***Let's create the initial files for your project: `index.html` and `styles.css`.***
 
-### index.html
-
-Create a new file named `index.html` in the root of your project. This file will contain the basic structure of your portfolio website. Here's a simple example to get you started:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Responsive Portfolio</title>
-    <link rel="stylesheet" href="css/styles.css" />
-  </head>
-
-  <body>
-    <!-- Write your HTML code here -->
-  </body>
-</html>
-```
-
-### styles.css
-
-Create a new file named `styles.css` in the `css/` directory. This file will contain the styles for your portfolio website. Here's a simple example to get you started:
-
-```css
-/* Reset default margin and padding */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Write your CSS code here */
-
-```
+Now you can check the code in the codepen by clicking the below link. Or you can copy the code and paste it in your local file.
 
 <iframe height="400" style="width: 100%;" scrolling="no" title="Portfolio" src="https://codepen.io/ajay-dhangar/embed/ZEPqMXM?height=265&theme-id=light&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/your_username_here/pen/ZEPqMXM'>Portfolio</a> by Your Name (<a href='https://codepen.io/ajay-dhangar'>@ajay-dhangar</a>) on <a href='https://codepen.io'>CodePen</a>.

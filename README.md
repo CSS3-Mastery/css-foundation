@@ -70,9 +70,9 @@ Contributions are welcome! Here's how you can help:
 - Please follow the [code of conduct](#).
 - Please follow the [contributing guidelines](#).
 
-## Author 
+## Author : *Ajay-Dhangar* 
 
-Ajay Dhangar - [GitHub](https://github.com/ajay-dhangar) | [LinkedIn](https://www.linkedin.com/in/ajay-dhangar/) | [Twitter](https://twitter.com/CodesWithAjay) | [YouTube](https://www.youtube.com/@ajay-dhangar) 
+[GitHub](https://github.com/ajay-dhangar) | [LinkedIn](https://www.linkedin.com/in/ajay-dhangar/) | [Twitter](https://twitter.com/CodesWithAjay) | [YouTube](https://www.youtube.com/@ajay-dhangar) 
 
 ## License 
 
