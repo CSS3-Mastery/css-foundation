@@ -1,4 +1,4 @@
-# css-foundation
+# CSS Foundation
 
 This repository contains the notes and exercises for the [CSS Foundation](https://github.com/css3-mastery/css-foundation) course by [Ajay Dhangar](https://github.com/ajay-dhangar).
 
