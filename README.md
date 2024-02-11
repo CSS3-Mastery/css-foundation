@@ -1,4 +1,4 @@
-# css-foundation
+# CSS Foundation
 
 
 1. introduction [Link](./introduction.md)
