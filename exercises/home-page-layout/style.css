@@ -1,0 +1,151 @@
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header styles */
+header {
+  background-color: #576afe;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  width: 80px;
+  height: auto;  
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Hero section styles */
+.hero {
+  background-color: #f4f4f4;
+  padding: 50px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.hero .cta {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Features section styles */
+.features {
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.feature {
+  text-align: center;
+}
+
+.feature h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  font-size: 1.1em;
+}
+
+/* Testimonials section styles */
+.testimonials {
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 50px;
+  text-align: center;
+}
+
+.testimonial {
+  margin-bottom: 30px;
+}
+
+.testimonial blockquote {
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+.testimonial cite {
+  font-weight: bold;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact,
+.social,
+.legal {
+  flex: 1;
+  text-align: center;
+}
+
+.contact h3,
+.social h3,
+.legal h3 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.contact p,
+.social a,
+.legal p {
+  margin-bottom: 10px;
+}
+
+.social a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+.legal p {
+  font-size: 0.8em;
+}
+
+a {
+  color: #daff06;
+}
