@@ -147,4 +147,4 @@ The Block Element Modifier (BEM) methodology is a popular naming convention for 
 - [BEM Community](https://en.bem.info/methodology/community/)
 
 
-<p style="text-align: center;"><a href="./combinators.md" alt="Previous: Flexbox and Grid">< Previous </a> |____| <a href="./css-header.md">Next ></a></p>
+<p style="text-align: center;"><a href="./combinators" alt="Previous: Flexbox and Grid">< Previous </a> |____| <a href="./css-header">Next ></a></p>
