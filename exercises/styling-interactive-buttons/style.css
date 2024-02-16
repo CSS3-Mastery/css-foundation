@@ -1,0 +1,120 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button.primary {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.secondary {
+  background-color: #6c757d;
+  color: #ffffff;
+}
+
+button.success {
+  background-color: #28a745;
+  color: #ffffff;
+}
+
+button.danger {
+  background-color: #dc3545;
+  color: #ffffff;
+}
+
+button.warning {
+  background-color: #ffc107;
+  color: #ffffff;
+}
+
+button.info {
+  background-color: #17a2b8;
+  color: #ffffff;
+}
+
+button.light {
+  background-color: #f8f9fa;
+  color: #000000;
+}
+
+button.dark {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+button.link {
+  background-color: transparent;
+  color: #007bff;
+}
+
+button.disabled {
+  background-color: #f0f0f0;
+  color: #000000;
+  cursor: not-allowed;
+}
+
+button.active {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.hover:hover {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.focus:focus {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.visited:visited {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.checked:checked {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.unchecked:unchecked {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.enabled:enabled {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.pressed:active {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.released:active {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+button.loading:disabled {
+  background-color: #007bff;
+  color: #ffffff;
+}

@@ -38,8 +38,8 @@ This course is designed to help you learn the basics of CSS. It covers the histo
 19. background-dropshadow-cursor [Link](./background-dropshadow-cursor.md)
 20. pseudo-classes-elements-transitions [Link](./pseudo-classes-elements-transitions.md)
 21. home-page-layout [Link](./home-page-layout.md)
-22. styling-interactive-buttons
-23. svg
+22. styling-interactive-buttons [Link](./styling-interactive-buttons.md)
+23. svg [Link](./svg.md)
 24. align-items-q-a
 25. speakers-image-grid-layout
 26. responsive-layout-with-media-queries
