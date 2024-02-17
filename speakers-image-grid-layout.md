@@ -64,7 +64,8 @@ This layout is used to display a grid of speaker images.
 
 ## Output
 
-<!-- ![Speaker Image Grid Layout](images/speakers-image-grid-layout.png) -->
+![Speaker Image Grid Layout](https://github.com/CSS3-Mastery/css-foundation/assets/99037494/66f46709-af2d-47ed-9517-77c3fa093b7b)
+
 
 ## Explanation
 
