@@ -40,8 +40,8 @@ This course is designed to help you learn the basics of CSS. It covers the histo
 21. home-page-layout [Link](./home-page-layout.md)
 22. styling-interactive-buttons [Link](./styling-interactive-buttons.md)
 23. svg [Link](./svg.md)
-24. align-items-q-a
-25. speakers-image-grid-layout
+24. align-items-q-a [Link](./align-items-q-a.md)
+25. speakers-image-grid-layout [Link](./speakers-image-grid-layout.md)
 26. responsive-layout-with-media-queries
 27. mobile-header-layout
 28. mobile-navigation-menu

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speaker Image Grid Layout</title>
+    <style>
+        .speakers {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.speaker {
+  text-align: center;
+}
+
+.speaker img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.speaker h3 {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #333;
+}
+    </style>
+</head>
+<body>
+    <div class="speakers">
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 1">
+          <h3>Speaker 1</h3>
+        </div>
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 2">
+          <h3>Speaker 2</h3>
+        </div>
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 3">
+          <h3>Speaker 3</h3>
+        </div>
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 4">
+          <h3>Speaker 4</h3>
+        </div>
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 5">
+          <h3>Speaker 5</h3>
+        </div>
+        <div class="speaker">
+          <img src="https://github.com/ajay-dhangar.png" alt="Speaker 6">
+          <h3>Speaker 6</h3>
+        </div>
+      </div>
+</body>
+</html>
